@@ -1,7 +1,7 @@
 # funny_virus
 virus is just a joke
 # download tool
-git clone https://github.com/Mr-Banana-2045/fuuny_virus
+git clone https://github.com/Mr-Banana-2045/funny_virus
 
 cd funny_virus
 
